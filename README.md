@@ -2,11 +2,11 @@
 ![banner](https://github.com/Devashrutha/Devashrutha/assets/61559101/67fdbf98-fcf7-418c-892b-ebde1fbd5025)
 
 <h3 align="center![Uploading banner.png…]()
-">Fuelled by my deep passion for VLSI, embedded systems, and PCB development, I find immense fulfillment in the creative and technical aspects of my work. "Welcome sojourner! Let the engineering adventure begin!"</h3>
+">Fuelled by my deep passion for VLSI, embedded systems, and PCB development, I find immense fulfilment in the creative and technical aspects of my work. "Welcome sojourner! Let the engineering adventure begin!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashrutha&label=Profile%20views&color=0e75b6&style=flat" alt="devashrutha" /> </p>
 
-- 🌱 I’m currently learning **C++, VLSI Design**
+- 🌱 I’m currently learning **C++, Analog VLSI Design**
 
 - 📫 How to reach me **sdevashrutha630@gmail.com**
 
