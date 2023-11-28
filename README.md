@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashrutha&label=Profile%20views&color=0e75b6&style=flat" alt="devashrutha" /> </p>
 
-- 🌱 I’m currently learning **Analog VLSI Design, C++**
+- 🌱 I’m currently learning **Analog VLSI Design and C++**
 
 - 📫 How to reach me **sdevashrutha630@gmail.com**
 
