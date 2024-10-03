@@ -5,7 +5,7 @@
 ">Fuelled by my deep passion for VLSI and PCB development, I find immense fulfilment in the creative and technical aspects of my work.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashrutha&label=Profile%20views&color=0e75b6&style=flat" alt="devashrutha" /> </p>
 
-- 🌱 I’m currently learning **Analog schematic/layout design and C++**
+- 🌱 I’m currently learning **Analog IC schematic/layout design and C++**
 
 - 📫 How to reach me **sdevashrutha630@gmail.com**
 
