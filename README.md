@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **sdevashrutha630@gmail.com**
 
-- ⚡ Fun fact **Electrons don't carry energy; the electric field does the work! Electrons are just pawns in the grand scheme of EM waves!**
+- ⚡ Fun fact, **electrons don't carry energy; the electric field does the work! Electrons are just pawns in the grand scheme of EM waves!**
   
-- ⚡ Fun fact **Every electron in the universe is the same!**
+- ⚡ Fun fact, **every electron in the universe is the same!**
 
 <h3 align="left">Connect with me:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devashrutha&show_icons=true&locale=en&layout=compact" alt="devashrutha" /></p>
